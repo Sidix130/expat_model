@@ -1,0 +1,15 @@
+{
+  "name": "Korçë — plancher budgétaire à vérifier",
+  "starting_capital_eur": 15376,
+  "protected_reserve_eur": 5000,
+  "one_off_costs_eur": 1500,
+  "monthly_expenses_eur": {
+    "Logement / emplacement": 150,
+    "Alimentation": 180,
+    "Électricité, eau, chauffage": 55,
+    "Internet et téléphone": 35,
+    "Transport et carburant": 65,
+    "Santé et assurance": 50,
+    "Hygiène, vêtements, divers": 35
+  }
+}
